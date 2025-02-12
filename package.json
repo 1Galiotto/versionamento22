@@ -1,0 +1,23 @@
+{
+  "name": "versionamento2",
+  "version": "0.0.1",
+  "description": "teste de versionamento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1Galiotto/versionamento22.git"
+  },
+  "keywords": [
+    "javascript",
+    "node.js"
+  ],
+  "author": "João Vitor Galiotto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1Galiotto/versionamento22/issues"
+  },
+  "homepage": "https://github.com/1Galiotto/versionamento22#readme"
+}
